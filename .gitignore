@@ -1,0 +1,51 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.vercel
+
+# Python
+scripts/.venv/
+__pycache__/
+.env*
+
+# Local design, architecture and working material
+/docs/
+/DEVELOPMENT.md
+/DESIGN.md
+/PRODUCT.md
+/GLOSSARY.md
+/INTERVIEW_GUIDE.md
+/AGENTS.md
+/.impeccable/
+/graphify-out/
+/scripts/
+/setpoint_app_icons/
+/src/assets/vite.svg
+
+# Browser regression artifacts
+/playwright-report/
+/test-results/
+
+# Unused source icon export (runtime assets live in public/ and native/assets/)
+/appicon.png

@@ -1,0 +1,32 @@
+# Native Expo / mobile — not needed for the Vite web deploy
+native
+ios
+android
+
+# Local build artifacts & tooling
+.git
+.cursor
+dist
+dist-ssr
+coverage
+*.log
+.DS_Store
+
+# Internal working documents and generated reports
+/docs
+/DEVELOPMENT.md
+/DESIGN.md
+/PRODUCT.md
+/GLOSSARY.md
+/INTERVIEW_GUIDE.md
+/AGENTS.md
+/.impeccable
+/graphify-out
+/scripts
+/setpoint_app_icons
+/e2e
+/playwright-report
+/test-results
+
+# Unused source icon export (runtime assets live in public/ and native/assets/)
+/appicon.png
