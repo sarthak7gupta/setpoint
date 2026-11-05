@@ -8,7 +8,15 @@ Keep score in singles or doubles, follow the pressure points, and replay the mat
 
 No account. Your matches stay on your device. The web app works offline after its first successful load and cache.
 
-<p align="center"><img src="public/setpoint-match.png" width="360" alt="SetPoint in Hawk-Eye Pro with US Open colors, showing an illustrative Alex versus Jamie match with point controls, serve indicators and undo." /></p>
+<table>
+  <tr><th>Desktop web</th><th>Mobile web</th></tr>
+  <tr>
+    <td width="72%" valign="top"><img src="assets/screenshots/setpoint-web.png" width="900" alt="SetPoint desktop web scorer in Hawk-Eye Pro with US Open colors. Alex Morgan leads Jamie Chen 6–4, 3–2, with the current game at 30–15; serve indicators, voice scoring and point controls are visible." /></td>
+    <td width="28%" valign="top"><img src="assets/screenshots/setpoint-mobile.png" width="320" alt="The same illustrative SetPoint match on mobile web, with a compact scoreboard and large touch controls for points, faults and undo." /></td>
+  </tr>
+</table>
+
+*Illustrative match data. Both screenshots use Hawk-Eye Pro with US Open colors.*
 
 ## Stay with the match
 
